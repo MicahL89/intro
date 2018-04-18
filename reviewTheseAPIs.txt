@@ -1,0 +1,3 @@
+https://docs.oracle.com/javase/7/docs/api/javax/xml/bind/annotation/adapters/XmlAdapter.html
+https://docs.oracle.com/javaee/5/api/javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.html
+https://docs.oracle.com/javase/7/docs/technotes/guides/jweb/packagingAppsForMac.html
